@@ -1,8 +1,8 @@
-# 🎓 Attendance Tracker System
+# Attendance Tracker System
 
 A modern, production-ready, full-stack student attendance tracking application. Designed with a premium, glassmorphism-inspired light mode UI and built for seamless deployment.
 
-## ✨ Features
+##  Features
 
 - **Beautiful Light-Mode Dashboard:** A crisp, airy, and high-contrast UI with royal blue and emerald green accents.
 - **Attendance Logging:** Mark students as present or absent efficiently with satisfying toggle controls.
@@ -12,7 +12,7 @@ A modern, production-ready, full-stack student attendance tracking application. 
 - **Secure Backend:** Express server hardened with `helmet`, `express-rate-limit`, and `cors`.
 - **Database Driven:** Powered by MongoDB Atlas for reliable and scalable data persistence.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Frontend:** React, Vite, React Router DOM
 - **Backend:** Node.js, Express
@@ -20,7 +20,7 @@ A modern, production-ready, full-stack student attendance tracking application. 
 - **Styling:** Custom CSS (Premium SaaS Aesthetic)
 - **Tooling:** Concurrently (Monorepo management)
 
-## 🚀 Local Development Setup
+##  Local Development Setup
 
 1. **Clone the repository**
    ```bash
@@ -61,7 +61,7 @@ A modern, production-ready, full-stack student attendance tracking application. 
    ```
    The frontend will start at `http://localhost:5173` and the backend at `http://localhost:5000`.
 
-## ☁️ Production Deployment (Render)
+##  Production Deployment (Render)
 
 This application is configured out-of-the-box for deployment on [Render](https://render.com).
 
@@ -77,6 +77,6 @@ This application is configured out-of-the-box for deployment on [Render](https:/
 
 In production mode, the Express backend is configured to statically serve the compiled React frontend, meaning both your API and web application will run seamlessly on the same Render URL.
 
-## 📄 License
+##  License
 
 This project is open-source and available under the [MIT License](LICENSE).
